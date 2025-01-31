@@ -17,6 +17,8 @@ function generadorExcusa(){
     document.getElementById("excuse").innerText=excuse;
 }
 
+
+
 document.addEventListener("DOMContentLoaded",generadorExcusa);
 
 
